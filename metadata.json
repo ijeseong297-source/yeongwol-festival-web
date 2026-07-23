@@ -1,0 +1,6 @@
+{
+  "name": "영월 축제·행사 정보 센터",
+  "description": "영월에서 열리는 축제, 문화 공연, 체험, 전시, 봉사활동 및 학교 행사를 한눈에 확인하고 AI 기반 행사 추천, 날씨 가이드 및 QR 스탬프 투어 기능을 제공하는 종합 플랫폼입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
